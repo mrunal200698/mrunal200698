@@ -87,6 +87,6 @@ Here are some of my notable projects:
 
 - 📧 Email: [gaurkarmrunal27@gmail.com](mailto:gaurkarmrunal27@gmail.com)  
 - 🔗 LinkedIn: [Connect with me](https://www.linkedin.com/in/mrunal-gaurkar-7698m1967p/)
-  <!-- 🌐 Portfolio: [View my portfolio](https://ashirbadpanda.github.io/Portfolio/)  -->
+- 🌐 Portfolio: [View my portfolio](https://mrunal200698.github.io/Mrunal-Portfolio/) 
 - 📞 Phone: +91 7264066280  
 - 📍 Location: Nagpur, Maharashtra, India
