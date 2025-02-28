@@ -35,14 +35,15 @@ I'm a Java Developer with a passion for creating seamless digital experiences. T
 
 ## About Me
 
-- 🎓 Graduated from Rajiv Gandhi College of Engineering and Research with a Bachelors degree in Computer Science and Engineering in September 2020 with a CGPA of 8.2..
+- 🎓 Graduated from Rajiv Gandhi College of Engineering and Research with a Bachelors degree in Computer Science and Engineering in September 2020 with a CGPA of 8.2.
+- 💻 Experienced Professional with 2+ years of Hands on ecperience in Backend Development.
 - 💼 Currently targeting roles of Java Developer/ Backend Developer/ Full Stack Developer.
-- 💻 Skilled in Java, J2EE, SpringBoot, Spring MVC, Hibernate, JPA, Microservices,Javascript, React.js, Node.js, MongoDB, HTML, CSS, and more.
+- 💻 Skilled in Java, J2EE, Spring Boot, Spring MVC, Hibernate, JPA, Microservices,Javascript, React.js, Node.js, MongoDB, HTML, CSS, and more.
 - 🌱 I'm constantly learning and improving to stay updated with the latest technologies in the field.
 
 ## Projects
 
-Here are some of my notable projects:
+Here are some of my notable Independent project modules:
 
 - **JukeBox**: Created a Console based application using for creating playlists & podcasts and adding, deleting, updating songs and podcasts in queue using data structure concepts.
 - **Tourist-Inn Booking System**: Created a mobile blog web app using Spring and JSE JEE, delivering engaging daily-life blog posts. Built a MERN stack-based project with a focus on intuitive UI.
@@ -51,28 +52,24 @@ Here are some of my notable projects:
 
 ## ♨ Languages and Tools:
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]
-[![Angularjs](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)]
 [![jQueryjs](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)]
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)]
 [![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)]
-[![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)]
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![reduxjs](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org)
 [![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]
 [![Bootstrap](https://irs.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
 [![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/)
 [![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
 [![json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/)
 [![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![visualstudio](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 
 
 
 ## Skills
 
-- Frontend: HTML, CSS, JavaScript, React.js, Angular.js, Node.js, Bootstrap, jQuery, Ajax, Redux
-- Backend: Java, Spring Framework, Spring MVC, Spring Boot with Microservices, Hibernate, JPA, Spring Security, Node.js, Express.js, MongoDB, MySQL
+- Frontend: HTML5, CSS3, JavaScript, React.js, Node.js, Bootstrap, jQuery, Ajax
+- Backend: Java, Spring Framework, Spring MVC, Spring Boot with Microservices, Hibernate, JPA, RESTful APIs, Spring Security, Node.js, Express.js, MongoDB, MySQL
 - Version Control: Git, GitHub
 
 ## Education
