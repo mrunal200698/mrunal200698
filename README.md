@@ -36,7 +36,7 @@ I’m a Java Developer focused on building scalable backend systems and seamless
 ## 😄 About Me
 
 - 🎓 Graduated from Rajiv Gandhi College of Engineering and Research with a Bachelors degree in Computer Science and Engineering in September 2020 with a CGPA of 8.2
-- 💻 Experienced Professional with 2+ years of Hands on experience in Backend Development
+- 💻 Experienced Professional with around 4 years of Hands on experience in Backend Development
 - 💼 Currently targeting roles of Java Developer/ Full Stack Developer
 - 💻 Skilled in Java, Spring Boot, Hibernate, Microservices, REST APIs, MySQL, Kafka, React.js, HTML, CSS, AWS and more
 - ⚡ Certified AWS Cloud Practitioner
@@ -96,6 +96,13 @@ I’m a Java Developer focused on building scalable backend systems and seamless
  
 &nbsp;
 
+## 💻 Certifications
+
+- **AWS certified Cloud Practitioner**
+- **Advanced Computing (CDAC)**
+  
+
+&nbsp;
 ## 📫 Connect With Me
 
 - 📧 Email: [gaurkarmrunal27@gmail.com](mailto:gaurkarmrunal27@gmail.com)  
